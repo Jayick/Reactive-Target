@@ -1,0 +1,7 @@
+
+mayicTarget,blocks,Block,New,Reactive Target,,,,,
+mayicTargetDesc,blocks,Block,New,Shooting target that tests your reaction abilities. Targets must be hit in the head,,,,,
+mayicTarget2,blocks,Block,New,Reactive Target,,,,,
+mayicTarget3,blocks,Block,New,Reactive Target,,,,,
+mayicTarget4,blocks,Block,New,Reactive Target,,,,,
+mayicTarget5,blocks,Block,New,Reactive Target,,,,,

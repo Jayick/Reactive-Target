@@ -1,0 +1,9 @@
+<potato>
+<append xpath="/recipes">
+
+<recipe name="mayicTarget" count="1" craft_time="10">
+			<ingredient name="resourceForgedIron" count="20"/>
+		</recipe>
+
+</append>
+</potato>
